@@ -118,8 +118,8 @@ git clone
 ## Capturas de tela
 <a id="#prints"></a>
 
-<img src="/images/SeletorPixar/screenshot1.png" alt="image_1">
-<img src="/images/SeletorPixar/screenshot2.png" alt="image_2">
+<img src="/images/SeletorPixar/telinha.png" alt="image_1">
+<img src="/images/SeletorPixar/telinha2.png" alt="image_2">
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 <!-- END: Capturas de tela -->
