@@ -107,7 +107,7 @@ Está indeciso do que comer? receba uma indicação aleatória com esse aplicati
 ```bash
 git clone 
 ```
-2. Abra a pasta "jantar_em_familia" com o android studio
+2. Abra a pasta "SeletorPixar" com o android studio
 3. Execute o código Main com um emulador ou um celular android
 
 
